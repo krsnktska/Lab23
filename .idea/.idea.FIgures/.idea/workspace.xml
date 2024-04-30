@@ -7,13 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50609e35-7e0d-4eef-b527-2b286535c630" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FIgures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FIgures/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="50609e35-7e0d-4eef-b527-2b286535c630" name="Changes" comment="test commit">
       <change beforePath="$PROJECT_DIR$/FIgures/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FIgures/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIgures/obj/Debug/net8.0/FIgures.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FIgures/obj/Debug/net8.0/FIgures.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIgures/obj/Debug/net8.0/FIgures.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FIgures/obj/Debug/net8.0/FIgures.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIgures/obj/Debug/net8.0/FIgures.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/FIgures/obj/Debug/net8.0/FIgures.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FIgures/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FIgures/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +18,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/Administrator/RiderProjects/Lab23/FIgures/obj/Debug/net8.0/FIgures.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -81,15 +80,38 @@
       <option name="presentableId" value="Default" />
       <updated>1714474662270</updated>
       <workItem from="1714474669586" duration="667000" />
-      <workItem from="1714476563953" duration="113000" />
+      <workItem from="1714476563953" duration="399000" />
     </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <option name="closed" value="true" />
+      <created>1714476796104</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714476796104</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
   </component>
 </project>
