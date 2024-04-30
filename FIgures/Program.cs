@@ -1,17 +1,10 @@
 ﻿namespace Figures;
 
-internal class Figure
+internal abstract class Figure
 {
     public double PositionX;
     public double PositionY;
-    
 }
-
-
-
-
-
-
 
 class Program
 {
